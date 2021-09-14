@@ -1,0 +1,6 @@
+.suo
+*.dll
+*.exe
+*.pdb
+*.cache
+*.CopyComplete
