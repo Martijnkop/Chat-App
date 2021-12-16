@@ -1,0 +1,17 @@
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\bin\Debug\net6.0\ChatApp.Factory.deps.json
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\bin\Debug\net6.0\ChatApp.Factory.dll
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\bin\Debug\net6.0\ref\ChatApp.Factory.dll
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\bin\Debug\net6.0\ChatApp.Factory.pdb
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\bin\Debug\net6.0\ChatApp.Database.dll
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\bin\Debug\net6.0\ChatApp.Interface.dll
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\bin\Debug\net6.0\ChatApp.Database.pdb
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\bin\Debug\net6.0\ChatApp.Interface.pdb
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\obj\Debug\net6.0\ChatApp.Factory.csproj.AssemblyReference.cache
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\obj\Debug\net6.0\ChatApp.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\obj\Debug\net6.0\ChatApp.Factory.AssemblyInfoInputs.cache
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\obj\Debug\net6.0\ChatApp.Factory.AssemblyInfo.cs
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\obj\Debug\net6.0\ChatApp.Factory.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\obj\Debug\net6.0\ChatApp.Factory.csproj.CopyComplete
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\obj\Debug\net6.0\ChatApp.Factory.dll
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\obj\Debug\net6.0\ref\ChatApp.Factory.dll
+C:\Users\marti\Documenten\Code\Chat-App\Backend\ChatApp.Factory\obj\Debug\net6.0\ChatApp.Factory.pdb

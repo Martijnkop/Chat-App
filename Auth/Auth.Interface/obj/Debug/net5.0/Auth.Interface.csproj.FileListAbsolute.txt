@@ -1,0 +1,12 @@
+C:\Users\marti\Documenten\Code\Chat-App\Auth\Auth.Interface\bin\Debug\net5.0\Auth.Interface.deps.json
+C:\Users\marti\Documenten\Code\Chat-App\Auth\Auth.Interface\bin\Debug\net5.0\Auth.Interface.dll
+C:\Users\marti\Documenten\Code\Chat-App\Auth\Auth.Interface\bin\Debug\net5.0\ref\Auth.Interface.dll
+C:\Users\marti\Documenten\Code\Chat-App\Auth\Auth.Interface\bin\Debug\net5.0\Auth.Interface.pdb
+C:\Users\marti\Documenten\Code\Chat-App\Auth\Auth.Interface\obj\Debug\net5.0\Auth.Interface.csproj.AssemblyReference.cache
+C:\Users\marti\Documenten\Code\Chat-App\Auth\Auth.Interface\obj\Debug\net5.0\Auth.Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marti\Documenten\Code\Chat-App\Auth\Auth.Interface\obj\Debug\net5.0\Auth.Interface.AssemblyInfoInputs.cache
+C:\Users\marti\Documenten\Code\Chat-App\Auth\Auth.Interface\obj\Debug\net5.0\Auth.Interface.AssemblyInfo.cs
+C:\Users\marti\Documenten\Code\Chat-App\Auth\Auth.Interface\obj\Debug\net5.0\Auth.Interface.csproj.CoreCompileInputs.cache
+C:\Users\marti\Documenten\Code\Chat-App\Auth\Auth.Interface\obj\Debug\net5.0\Auth.Interface.dll
+C:\Users\marti\Documenten\Code\Chat-App\Auth\Auth.Interface\obj\Debug\net5.0\ref\Auth.Interface.dll
+C:\Users\marti\Documenten\Code\Chat-App\Auth\Auth.Interface\obj\Debug\net5.0\Auth.Interface.pdb

@@ -1,0 +1,41 @@
+.Chat {
+    flex: 90%;
+    display: flex;
+    flex-direction: column-reverse;
+}
+
+.Message {
+    display: flex;
+    padding: 5px 10px 5px 10px;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 50%;
+    background-color: var(--orange);
+    width: fit-content;
+    margin-left: 10px;
+    border-radius: 10px 10px 10px 0;
+}
+
+.Message.Me {
+    justify-content: flex-end;
+    background-color: var(--blue);
+    align-self: flex-end;
+    margin-right: 10px;
+    border-radius: 10px 10px 0px 10px;
+}
+
+.Message>.name {
+    color: white;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.Message.Me>.name {
+    display: none;
+}
+
+.Message>.content {
+    color: white;
+    font-size: 18px;
+}

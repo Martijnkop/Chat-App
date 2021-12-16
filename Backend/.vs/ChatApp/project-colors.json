@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c03deb25-ba5d-4dfa-8fb7-93f56fcf44c6": {
+      "ProjectGuid": "c03deb25-ba5d-4dfa-8fb7-93f56fcf44c6",
+      "DisplayName": "ChatApp_Main",
+      "ColorIndex": 0
+    },
+    "2c1cb21a-3d40-4a18-8c71-d3de1b570b9f": {
+      "ProjectGuid": "2c1cb21a-3d40-4a18-8c71-d3de1b570b9f",
+      "DisplayName": "ChatApp_Interface",
+      "ColorIndex": 1
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "ef5bd38b-06d5-4b24-8e9e-fd47c8e4707d": {
+      "ProjectGuid": "ef5bd38b-06d5-4b24-8e9e-fd47c8e4707d",
+      "DisplayName": "ChatApp",
+      "ColorIndex": 2
+    },
+    "0647a817-729f-43e3-9329-fdcb14db5472": {
+      "ProjectGuid": "0647a817-729f-43e3-9329-fdcb14db5472",
+      "DisplayName": "ChatApp.Interface",
+      "ColorIndex": 3
+    },
+    "1a4c1dd2-4faf-4025-907c-443f4727b688": {
+      "ProjectGuid": "1a4c1dd2-4faf-4025-907c-443f4727b688",
+      "DisplayName": "ChatApp.Database",
+      "ColorIndex": 4
+    },
+    "3fd64fac-0a6a-46c2-a6a5-8d48c77f1b2f": {
+      "ProjectGuid": "3fd64fac-0a6a-46c2-a6a5-8d48c77f1b2f",
+      "DisplayName": "ChatApp.Factory",
+      "ColorIndex": 5
+    }
+  },
+  "NextColorIndex": 6
+}

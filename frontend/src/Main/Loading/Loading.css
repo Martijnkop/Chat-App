@@ -1,0 +1,23 @@
+.LoadingBackground {
+    height: 100%;
+    width: 100%;
+}
+
+.MuiCircularProgress-root {
+    position: relative;
+    top: calc(50% - 85px);
+}
+
+.MuiCircularProgress-colorPrimary {
+    color: var(--blue) !important;
+}
+
+.LoadingText {
+    position: relative;
+    text-align: center;
+    top: calc(50% - 20px);
+    margin: 0;
+    font-weight: 500;
+    color: var(--orange);
+    font-size: 40px;
+}

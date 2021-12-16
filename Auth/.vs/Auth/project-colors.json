@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e8fc06f1-4334-4d98-8d41-dfd85104aee5": {
+      "ProjectGuid": "e8fc06f1-4334-4d98-8d41-dfd85104aee5",
+      "DisplayName": "Auth",
+      "ColorIndex": 0
+    },
+    "3f2b0b3b-b03e-4cb0-ae14-2f72dd70e220": {
+      "ProjectGuid": "3f2b0b3b-b03e-4cb0-ae14-2f72dd70e220",
+      "DisplayName": "Auth.Logic",
+      "ColorIndex": 1
+    },
+    "3f2eef08-8bfa-4e33-88bc-118363863570": {
+      "ProjectGuid": "3f2eef08-8bfa-4e33-88bc-118363863570",
+      "DisplayName": "Auth.Interface",
+      "ColorIndex": 2
+    },
+    "076a9833-bed4-4d3c-be60-26613888035b": {
+      "ProjectGuid": "076a9833-bed4-4d3c-be60-26613888035b",
+      "DisplayName": "Auth.Factory",
+      "ColorIndex": 3
+    },
+    "b820e8c5-1030-4894-a83f-01301d500ae1": {
+      "ProjectGuid": "b820e8c5-1030-4894-a83f-01301d500ae1",
+      "DisplayName": "Auth.Database",
+      "ColorIndex": 4
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 5
+}

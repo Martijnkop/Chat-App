@@ -1,0 +1,16 @@
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    background-color: var(--orange);
+    width: 50%;
+    left: 25%;
+    height: 80%;
+    top: calc(10% - 20px);
+    padding: 20px;
+    border-radius: 20px;
+    align-items: center;
+    overflow-y: scroll;
+    user-select: none;
+}

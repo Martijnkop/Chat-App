@@ -1,0 +1,39 @@
+.buttons {
+    display: flex;
+}
+
+.buttons .button {
+    flex-direction: row;
+    margin: 0px 20px 0px 20px;
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    text-align: start;
+    background-color: var(--orange);
+    width: 50%;
+    left: 25%;
+    height: 50%;
+    top: calc(25% - 20px);
+    padding: 20px;
+    border-radius: 20px;
+    align-items: center;
+    overflow-y: scroll;
+    user-select: none;
+}
+
+.card::-webkit-scrollbar {
+    display: none;
+  }
+  
+
+.card p {
+    font-size: 50px;
+    margin-bottom: 10px;  
+}
+
+.card input {
+    border-style: hidden!important;
+}

@@ -1,0 +1,8 @@
+.Sidebar {
+    background-color: var(--gray8);
+    flex: 10%;
+    margin: 0;
+    padding: 0;
+    overflow-y: scroll;
+    min-width: fit-content;
+}
